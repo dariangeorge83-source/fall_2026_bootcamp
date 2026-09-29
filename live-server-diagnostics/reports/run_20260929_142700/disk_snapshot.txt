@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /Users/macowner/fall_2026_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s5   926Gi   613Gi   280Gi    69%    2.2M  2.9G    0%   /System/Volumes/Data
+
+Directory size:
+ 44K	/Users/macowner/fall_2026_bootcamp/live-server-diagnostics
+
+File count:
+       2
