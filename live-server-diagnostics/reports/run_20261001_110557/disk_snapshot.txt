@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /Users/macowner/Documents/TheoWAF/cpg/cloudfundamentals/Fall_2026_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s5   926Gi   616Gi   277Gi    69%    2.2M  2.9G    0%   /System/Volumes/Data
+
+Directory size:
+ 84K	/Users/macowner/Documents/TheoWAF/cpg/cloudfundamentals/Fall_2026_bootcamp/live-server-diagnostics
+
+File count:
+       2
