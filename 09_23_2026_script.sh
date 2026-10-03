@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "hello world"
+echo ""
 
 echo "Welcome to the Training Menu"
 echo "1) Check system information"
